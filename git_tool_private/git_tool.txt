@@ -91,6 +91,7 @@ jbig
 jpeg
 jpeg-turbo
 json
+json-schema-validator
 jsoncpp
 lame
 lcms
@@ -150,6 +151,7 @@ sigslot
 Simd
 sljit
 soxr
+spdlog
 speex
 spl_sqrt_floor
 spy

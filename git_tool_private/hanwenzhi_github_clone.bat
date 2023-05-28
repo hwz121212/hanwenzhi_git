@@ -92,6 +92,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jbig.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jpeg.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jpeg-turbo.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/json.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/json-schema-validator.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jsoncpp.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lame.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lcms.git
@@ -151,6 +152,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/sigslot.gi
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/Simd.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/sljit.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/soxr.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/spdlog.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/speex.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/spl_sqrt_floor.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/spy.git

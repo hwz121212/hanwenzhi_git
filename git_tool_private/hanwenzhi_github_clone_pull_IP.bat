@@ -185,6 +185,8 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/jpeg-t
 cd jpeg-turbo & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/jpeg-turbo.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/json.git
 cd json & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/json.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/json-schema-validator.git
+cd json-schema-validator & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/json-schema-validator.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/jsoncpp.git
 cd jsoncpp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/jsoncpp.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/lame.git
@@ -303,6 +305,8 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/sljit.
 cd sljit & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/sljit.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/soxr.git
 cd soxr & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/soxr.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/spdlog.git
+cd spdlog & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/spdlog.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/speex.git
 cd speex & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/speex.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/spl_sqrt_floor.git
