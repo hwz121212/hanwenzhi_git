@@ -72,10 +72,10 @@ gpg-error
 gsasl
 gsoap
 gtest
-hanwenzhi_daiylife
 hanwenzhi_git
 hanwenzhi_info
 hanwenzhi_info_private
+hanwenzhi_timeline
 harfbuzz
 haru
 hiberlite

@@ -147,14 +147,14 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/gsoap.
 cd gsoap & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/gsoap.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/gtest.git
 cd gtest & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/gtest.git --allow-unrelated-histories & cd ..
-git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/hanwenzhi_daiylife.git
-cd hanwenzhi_daiylife & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/hanwenzhi_daiylife.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/hanwenzhi_git.git
 cd hanwenzhi_git & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/hanwenzhi_git.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/hanwenzhi_info.git
 cd hanwenzhi_info & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/hanwenzhi_info.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/hanwenzhi_info_private.git
 cd hanwenzhi_info_private & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/hanwenzhi_info_private.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/hanwenzhi_timeline.git
+cd hanwenzhi_timeline & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/hanwenzhi_timeline.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/harfbuzz.git
 cd harfbuzz & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/harfbuzz.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/haru.git
