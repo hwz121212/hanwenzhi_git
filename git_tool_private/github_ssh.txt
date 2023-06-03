@@ -1,0 +1,7 @@
+ssh-keygen -t rsa -b 4096 -C "702054083@qq.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+
+
+git config --global user.name "hanwenzhi"
+git config --global user.email "702054083@qq.com"
