@@ -73,8 +73,7 @@ gsasl
 gsoap
 gtest
 hanwenzhi_git
-hanwenzhi_info
-hanwenzhi_info_private
+hanwenzhi_study
 hanwenzhi_timeline
 harfbuzz
 haru

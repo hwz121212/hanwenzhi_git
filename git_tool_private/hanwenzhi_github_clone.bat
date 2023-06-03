@@ -74,8 +74,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gsasl.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gsoap.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gtest.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hanwenzhi_git.git
-git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hanwenzhi_info.git
-git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hanwenzhi_info_private.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hanwenzhi_study.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hanwenzhi_timeline.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/harfbuzz.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/haru.git
