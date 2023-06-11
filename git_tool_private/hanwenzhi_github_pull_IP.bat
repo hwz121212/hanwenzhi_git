@@ -139,6 +139,7 @@ cd pugixml & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.
 cd python & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/python.git --allow-unrelated-histories & cd ..
 cd qrencode & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/qrencode.git --allow-unrelated-histories & cd ..
 cd qt & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/qt.git --allow-unrelated-histories & cd ..
+cd qt_linux & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/qt_linux.git --allow-unrelated-histories & cd ..
 cd quirc & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/quirc.git --allow-unrelated-histories & cd ..
 cd rapidjson & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/rapidjson.git --allow-unrelated-histories & cd ..
 cd rapidxml & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/rapidxml.git --allow-unrelated-histories & cd ..

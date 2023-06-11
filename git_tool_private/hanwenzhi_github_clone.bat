@@ -139,6 +139,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/pugixml.gi
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/python.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/qrencode.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/qt.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/qt_linux.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/quirc.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/rapidjson.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/rapidxml.git

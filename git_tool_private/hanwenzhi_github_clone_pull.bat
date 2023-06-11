@@ -279,6 +279,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/qrencode.g
 cd qrencode & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/qrencode.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/qt.git
 cd qt & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/qt.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/qt_linux.git
+cd qt_linux & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/qt_linux.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/quirc.git
 cd quirc & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/quirc.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/rapidjson.git

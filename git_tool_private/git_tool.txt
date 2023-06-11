@@ -138,6 +138,7 @@ pugixml
 python
 qrencode
 qt
+qt_linux
 quirc
 rapidjson
 rapidxml
