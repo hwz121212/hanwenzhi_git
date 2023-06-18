@@ -67,6 +67,7 @@ glib
 glm
 glog
 gmock
+gnumake
 gperf
 gpg-error
 gsasl

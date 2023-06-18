@@ -68,6 +68,7 @@ cd glib & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github
 cd glm & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/glm.git --allow-unrelated-histories & cd ..
 cd glog & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/glog.git --allow-unrelated-histories & cd ..
 cd gmock & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gmock.git --allow-unrelated-histories & cd ..
+cd gnumake & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gnumake.git --allow-unrelated-histories & cd ..
 cd gperf & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gperf.git --allow-unrelated-histories & cd ..
 cd gpg-error & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gpg-error.git --allow-unrelated-histories & cd ..
 cd gsasl & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gsasl.git --allow-unrelated-histories & cd ..

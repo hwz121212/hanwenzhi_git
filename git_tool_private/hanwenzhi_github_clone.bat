@@ -68,6 +68,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/glib.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/glm.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/glog.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gmock.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gnumake.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gperf.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gpg-error.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gsasl.git

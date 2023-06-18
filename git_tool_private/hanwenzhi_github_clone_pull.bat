@@ -137,6 +137,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/glog.git
 cd glog & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/glog.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gmock.git
 cd gmock & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gmock.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gnumake.git
+cd gnumake & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gnumake.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gperf.git
 cd gperf & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gperf.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gpg-error.git
