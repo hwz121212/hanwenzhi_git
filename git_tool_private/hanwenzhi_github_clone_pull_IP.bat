@@ -125,6 +125,8 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/getopt
 cd getopt & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/getopt.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/gif.git
 cd gif & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/gif.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/glad.git
+cd glad & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/glad.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/glew.git
 cd glew & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/glew.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/glfw.git

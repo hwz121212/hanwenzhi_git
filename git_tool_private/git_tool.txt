@@ -61,6 +61,7 @@ game-music-emu
 gcrypt
 getopt
 gif
+glad
 glew
 glfw
 glib

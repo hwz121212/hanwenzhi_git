@@ -62,6 +62,7 @@ cd game-music-emu & git fetch --all & git reset --hard hanwenzhi & git.exe pull 
 cd gcrypt & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gcrypt.git --allow-unrelated-histories & cd ..
 cd getopt & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/getopt.git --allow-unrelated-histories & cd ..
 cd gif & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/gif.git --allow-unrelated-histories & cd ..
+cd glad & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/glad.git --allow-unrelated-histories & cd ..
 cd glew & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/glew.git --allow-unrelated-histories & cd ..
 cd glfw & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/glfw.git --allow-unrelated-histories & cd ..
 cd glib & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/glib.git --allow-unrelated-histories & cd ..

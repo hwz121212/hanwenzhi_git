@@ -62,6 +62,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/game-music
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gcrypt.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/getopt.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/gif.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/glad.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/glew.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/glfw.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/glib.git
