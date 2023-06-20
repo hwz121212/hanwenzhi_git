@@ -197,6 +197,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lcms.git
 cd lcms & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/lcms.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/leptonica.git
 cd leptonica & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/leptonica.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/log4cplus.git
+cd log4cplus & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/log4cplus.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/loki.git
 cd loki & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/loki.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lua.git

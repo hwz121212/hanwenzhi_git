@@ -97,6 +97,7 @@ jsoncpp
 lame
 lcms
 leptonica
+log4cplus
 loki
 lua
 lzma

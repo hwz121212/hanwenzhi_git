@@ -98,6 +98,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jsoncpp.gi
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lame.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lcms.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/leptonica.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/log4cplus.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/loki.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lua.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lzma.git

@@ -98,6 +98,7 @@ cd jsoncpp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.
 cd lame & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lame.git --allow-unrelated-histories & cd ..
 cd lcms & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lcms.git --allow-unrelated-histories & cd ..
 cd leptonica & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/leptonica.git --allow-unrelated-histories & cd ..
+cd log4cplus & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/log4cplus.git --allow-unrelated-histories & cd ..
 cd loki & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/loki.git --allow-unrelated-histories & cd ..
 cd lua & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lua.git --allow-unrelated-histories & cd ..
 cd lzma & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lzma.git --allow-unrelated-histories & cd ..
