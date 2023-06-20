@@ -153,6 +153,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/sdl.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/sigslot.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/Simd.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/sljit.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/slog.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/soxr.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/spdlog.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/speex.git

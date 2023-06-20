@@ -153,6 +153,7 @@ cd sdl & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.
 cd sigslot & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/sigslot.git --allow-unrelated-histories & cd ..
 cd Simd & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/Simd.git --allow-unrelated-histories & cd ..
 cd sljit & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/sljit.git --allow-unrelated-histories & cd ..
+cd slog & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/slog.git --allow-unrelated-histories & cd ..
 cd soxr & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/soxr.git --allow-unrelated-histories & cd ..
 cd spdlog & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/spdlog.git --allow-unrelated-histories & cd ..
 cd speex & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/speex.git --allow-unrelated-histories & cd ..

@@ -152,6 +152,7 @@ sdl
 sigslot
 Simd
 sljit
+slog
 soxr
 spdlog
 speex
