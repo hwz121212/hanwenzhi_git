@@ -20,6 +20,7 @@ cctz
 cdio
 cereal
 ckcore
+ckfilesystem
 coin3d
 cppcoro
 cpp_demo
