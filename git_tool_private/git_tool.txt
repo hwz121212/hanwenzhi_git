@@ -24,6 +24,7 @@ cppcoro
 cpp_demo
 CrashFix
 CrashRpt
+cryptopp
 cups
 curl
 cximage

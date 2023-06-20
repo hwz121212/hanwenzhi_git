@@ -25,6 +25,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cppcoro.gi
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cpp_demo.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/CrashFix.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/CrashRpt.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cryptopp.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cups.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/curl.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cximage.git
