@@ -103,6 +103,7 @@ lua
 lzma
 lzo
 mcpp
+memcacheclient
 mfx_dispatch
 Microsoft_DirectX_SDK_February_2010
 minilzo

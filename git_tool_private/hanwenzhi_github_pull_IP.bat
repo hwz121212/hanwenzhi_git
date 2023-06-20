@@ -104,6 +104,7 @@ cd lua & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.
 cd lzma & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lzma.git --allow-unrelated-histories & cd ..
 cd lzo & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lzo.git --allow-unrelated-histories & cd ..
 cd mcpp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/mcpp.git --allow-unrelated-histories & cd ..
+cd memcacheclient & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/memcacheclient.git --allow-unrelated-histories & cd ..
 cd mfx_dispatch & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/mfx_dispatch.git --allow-unrelated-histories & cd ..
 cd Microsoft_DirectX_SDK_February_2010 & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/Microsoft_DirectX_SDK_February_2010.git --allow-unrelated-histories & cd ..
 cd minilzo & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/minilzo.git --allow-unrelated-histories & cd ..

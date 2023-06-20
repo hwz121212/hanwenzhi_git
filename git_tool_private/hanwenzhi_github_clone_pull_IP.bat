@@ -209,6 +209,8 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/lzo.gi
 cd lzo & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lzo.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/mcpp.git
 cd mcpp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/mcpp.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/memcacheclient.git
+cd memcacheclient & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/memcacheclient.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/mfx_dispatch.git
 cd mfx_dispatch & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/mfx_dispatch.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/Microsoft_DirectX_SDK_February_2010.git

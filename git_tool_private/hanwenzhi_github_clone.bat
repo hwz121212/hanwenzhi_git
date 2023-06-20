@@ -104,6 +104,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lua.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lzma.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lzo.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/mcpp.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/memcacheclient.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/mfx_dispatch.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/Microsoft_DirectX_SDK_February_2010.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/minilzo.git
