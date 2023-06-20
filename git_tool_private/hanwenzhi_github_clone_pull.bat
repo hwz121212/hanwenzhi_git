@@ -41,6 +41,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cdio.git
 cd cdio & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/cdio.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cereal.git
 cd cereal & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/cereal.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ckcore.git
+cd ckcore & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/ckcore.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/coin3d.git
 cd coin3d & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/coin3d.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cppcoro.git

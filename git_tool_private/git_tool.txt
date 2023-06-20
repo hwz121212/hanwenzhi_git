@@ -19,6 +19,7 @@ catch
 cctz
 cdio
 cereal
+ckcore
 coin3d
 cppcoro
 cpp_demo
