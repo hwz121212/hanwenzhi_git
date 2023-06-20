@@ -53,6 +53,8 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/CrashR
 cd CrashRpt & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/CrashRpt.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/cryptopp.git
 cd cryptopp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/cryptopp.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/CSHA1.git
+cd CSHA1 & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/CSHA1.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/cups.git
 cd cups & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/cups.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/curl.git

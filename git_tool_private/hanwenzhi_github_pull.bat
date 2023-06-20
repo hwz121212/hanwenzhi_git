@@ -26,6 +26,7 @@ cd cpp_demo & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@gi
 cd CrashFix & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/CrashFix.git --allow-unrelated-histories & cd ..
 cd CrashRpt & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/CrashRpt.git --allow-unrelated-histories & cd ..
 cd cryptopp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/cryptopp.git --allow-unrelated-histories & cd ..
+cd CSHA1 & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/CSHA1.git --allow-unrelated-histories & cd ..
 cd cups & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/cups.git --allow-unrelated-histories & cd ..
 cd curl & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/curl.git --allow-unrelated-histories & cd ..
 cd cximage & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/cximage.git --allow-unrelated-histories & cd ..
