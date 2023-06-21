@@ -161,6 +161,7 @@ sigslot
 Simd
 sljit
 slog
+sndfile
 soxr
 spdlog
 speex

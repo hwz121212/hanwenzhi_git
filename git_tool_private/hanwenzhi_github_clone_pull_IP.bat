@@ -325,6 +325,8 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/sljit.
 cd sljit & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/sljit.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/slog.git
 cd slog & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/slog.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/sndfile.git
+cd sndfile & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/sndfile.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/soxr.git
 cd soxr & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/soxr.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/spdlog.git
