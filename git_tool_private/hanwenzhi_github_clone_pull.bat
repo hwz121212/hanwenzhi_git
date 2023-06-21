@@ -13,6 +13,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ass.git
 cd ass & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/ass.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/assimp.git
 cd assimp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/assimp.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/b64.git
+cd b64 & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/b64.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/bdplus.git
 cd bdplus & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/bdplus.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/benchmark.git
@@ -271,6 +273,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/openssl.gi
 cd openssl & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/openssl.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/opus.git
 cd opus & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/opus.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/Pantheios.git
+cd Pantheios & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/Pantheios.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/pcre2.git
 cd pcre2 & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/pcre2.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/png.git

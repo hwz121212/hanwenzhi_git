@@ -5,6 +5,7 @@ ade
 asiosdk
 ass
 assimp
+b64
 bdplus
 benchmark
 berkeleydb
@@ -134,6 +135,7 @@ openexr
 openjpeg
 openssl
 opus
+Pantheios
 pcre2
 png
 poco

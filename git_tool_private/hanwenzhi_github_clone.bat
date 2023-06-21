@@ -6,6 +6,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ade.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/asiosdk.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ass.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/assimp.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/b64.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/bdplus.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/benchmark.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/berkeleydb.git
@@ -135,6 +136,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/openexr.gi
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/openjpeg.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/openssl.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/opus.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/Pantheios.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/pcre2.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/png.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/poco.git
