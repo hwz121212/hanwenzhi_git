@@ -22,6 +22,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cdio.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cereal.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ckcore.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ckfilesystem.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ckmmc.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/coin3d.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cppcoro.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/cpp_demo.git

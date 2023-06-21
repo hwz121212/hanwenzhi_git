@@ -22,6 +22,7 @@ cd cdio & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github
 cd cereal & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/cereal.git --allow-unrelated-histories & cd ..
 cd ckcore & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/ckcore.git --allow-unrelated-histories & cd ..
 cd ckfilesystem & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/ckfilesystem.git --allow-unrelated-histories & cd ..
+cd ckmmc & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/ckmmc.git --allow-unrelated-histories & cd ..
 cd coin3d & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/coin3d.git --allow-unrelated-histories & cd ..
 cd cppcoro & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/cppcoro.git --allow-unrelated-histories & cd ..
 cd cpp_demo & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/cpp_demo.git --allow-unrelated-histories & cd ..
