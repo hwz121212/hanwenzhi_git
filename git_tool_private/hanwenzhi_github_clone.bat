@@ -100,6 +100,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jpeg-turbo
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/json.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/json-schema-validator.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jsoncpp.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/keepass.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lame.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lcms.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/leptonica.git

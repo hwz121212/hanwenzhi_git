@@ -100,6 +100,7 @@ cd jpeg-turbo & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@
 cd json & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/json.git --allow-unrelated-histories & cd ..
 cd json-schema-validator & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/json-schema-validator.git --allow-unrelated-histories & cd ..
 cd jsoncpp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/jsoncpp.git --allow-unrelated-histories & cd ..
+cd keepass & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/keepass.git --allow-unrelated-histories & cd ..
 cd lame & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lame.git --allow-unrelated-histories & cd ..
 cd lcms & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lcms.git --allow-unrelated-histories & cd ..
 cd leptonica & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/leptonica.git --allow-unrelated-histories & cd ..

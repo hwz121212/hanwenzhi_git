@@ -99,6 +99,7 @@ jpeg-turbo
 json
 json-schema-validator
 jsoncpp
+keepass
 lame
 lcms
 leptonica

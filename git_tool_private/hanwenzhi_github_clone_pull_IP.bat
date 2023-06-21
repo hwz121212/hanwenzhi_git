@@ -201,6 +201,8 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/json-s
 cd json-schema-validator & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/json-schema-validator.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/jsoncpp.git
 cd jsoncpp & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/jsoncpp.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/keepass.git
+cd keepass & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/keepass.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/lame.git
 cd lame & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/lame.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/lcms.git
