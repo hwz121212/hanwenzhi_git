@@ -87,6 +87,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hanwenzhi_
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/harfbuzz.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/haru.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hiberlite.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hiredis.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hwloc.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/iconv.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/id3.git
@@ -96,6 +97,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ipc.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/ittnotify.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jasper.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jbig.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jemalloc.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jpeg.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jpeg-turbo.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/json.git
@@ -105,6 +107,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/keepass.gi
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lame.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lcms.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/leptonica.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/linenoise.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/log4cplus.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/loki.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lua.git
@@ -156,6 +159,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/quirc.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/rapidjson.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/rapidxml.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/re2c.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/redis.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/resizablelib.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/rtmpdump.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/scintilla.git

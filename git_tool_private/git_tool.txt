@@ -86,6 +86,7 @@ hanwenzhi_timeline
 harfbuzz
 haru
 hiberlite
+hiredis
 hwloc
 iconv
 id3
@@ -95,6 +96,7 @@ ipc
 ittnotify
 jasper
 jbig
+jemalloc
 jpeg
 jpeg-turbo
 json
@@ -104,6 +106,7 @@ keepass
 lame
 lcms
 leptonica
+linenoise
 log4cplus
 loki
 lua
@@ -155,6 +158,7 @@ quirc
 rapidjson
 rapidxml
 re2c
+redis
 resizablelib
 rtmpdump
 scintilla

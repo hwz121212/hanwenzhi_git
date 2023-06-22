@@ -175,6 +175,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/haru.git
 cd haru & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/haru.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hiberlite.git
 cd hiberlite & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/hiberlite.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hiredis.git
+cd hiredis & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/hiredis.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/hwloc.git
 cd hwloc & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/hwloc.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/iconv.git
@@ -193,6 +195,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jasper.git
 cd jasper & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/jasper.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jbig.git
 cd jbig & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/jbig.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jemalloc.git
+cd jemalloc & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/jemalloc.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jpeg.git
 cd jpeg & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/jpeg.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/jpeg-turbo.git
@@ -211,6 +215,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/lcms.git
 cd lcms & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/lcms.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/leptonica.git
 cd leptonica & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/leptonica.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/linenoise.git
+cd linenoise & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/linenoise.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/log4cplus.git
 cd log4cplus & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/log4cplus.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/loki.git
@@ -313,6 +319,8 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/rapidxml.g
 cd rapidxml & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/rapidxml.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/re2c.git
 cd re2c & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/re2c.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/redis.git
+cd redis & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/redis.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/resizablelib.git
 cd resizablelib & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/resizablelib.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/rtmpdump.git
