@@ -23,6 +23,7 @@ cereal
 ckcore
 ckfilesystem
 ckmmc
+cmake
 coin3d
 cppcoro
 cpp_demo
