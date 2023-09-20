@@ -206,6 +206,7 @@ cd wtl & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.
 cd wxWidgets & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/wxWidgets.git --allow-unrelated-histories & cd ..
 cd xml2 & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/xml2.git --allow-unrelated-histories & cd ..
 cd xproto & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/xproto.git --allow-unrelated-histories & cd ..
+cd XtremeToolkitPro & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/XtremeToolkitPro.git --allow-unrelated-histories & cd ..
 cd yasm & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/yasm.git --allow-unrelated-histories & cd ..
 cd yuv & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/yuv.git --allow-unrelated-histories & cd ..
 cd zeroc_ice & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@github.com:hwz121212/zeroc_ice.git --allow-unrelated-histories & cd ..

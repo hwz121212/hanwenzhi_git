@@ -206,6 +206,7 @@ cd wtl & git push -v --progress "origin" hanwenzhi:hanwenzhi & cd ..
 cd wxWidgets & git push -v --progress "origin" hanwenzhi:hanwenzhi & cd ..
 cd xml2 & git push -v --progress "origin" hanwenzhi:hanwenzhi & cd ..
 cd xproto & git push -v --progress "origin" hanwenzhi:hanwenzhi & cd ..
+cd XtremeToolkitPro & git push -v --progress "origin" hanwenzhi:hanwenzhi & cd ..
 cd yasm & git push -v --progress "origin" hanwenzhi:hanwenzhi & cd ..
 cd yuv & git push -v --progress "origin" hanwenzhi:hanwenzhi & cd ..
 cd zeroc_ice & git push -v --progress "origin" hanwenzhi:hanwenzhi & cd ..

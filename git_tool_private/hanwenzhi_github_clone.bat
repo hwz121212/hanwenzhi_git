@@ -206,6 +206,7 @@ git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/wtl.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/wxWidgets.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/xml2.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/xproto.git
+git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/XtremeToolkitPro.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/yasm.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/yuv.git
 git.exe clone --recursive --branch hanwenzhi git@github.com:hwz121212/zeroc_ice.git

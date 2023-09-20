@@ -413,6 +413,8 @@ git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/xml2.g
 cd xml2 & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/xml2.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/xproto.git
 cd xproto & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/xproto.git --allow-unrelated-histories & cd ..
+git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/XtremeToolkitPro.git
+cd XtremeToolkitPro & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/XtremeToolkitPro.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/yasm.git
 cd yasm & git fetch --all & git reset --hard hanwenzhi & git.exe pull git@20.205.243.166:hwz121212/yasm.git --allow-unrelated-histories & cd ..
 git.exe clone --recursive --branch hanwenzhi git@20.205.243.166:hwz121212/yuv.git
